@@ -1,6 +1,9 @@
 # AutoCheckers
 2018 AQA Computer Science A-Level Project
 
+This project was written in 2018 so some of the libraries used are difficult to install now.<br />
+The required libraries are pymouse and tkinter. PyMouse was abandoned 6 years ago so may not be functional anymore.<br />
+
 Videos of the program working:<br />
 https://www.youtube.com/watch?v=8oUdTzEdgW4<br />
 https://www.youtube.com/watch?v=UoAJtSNMDis<br />
